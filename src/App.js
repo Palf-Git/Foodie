@@ -6,7 +6,7 @@ export default function App() {
 const foods = [
   { 
     name: "Pizza Margherita", 
-    desc: "Classic Italian pizza with tomato, mozzarella & basil.", 
+    desc: "Classic Italian pizza with tomato, mozzarella & basil.",
     img: "https://images.unsplash.com/photo-1594007654729-407eedc4be65?auto=format&fit=crop&w=400&q=80"
  
   },
